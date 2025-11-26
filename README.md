@@ -37,7 +37,7 @@
 </div>
 
 ###
-![IsacGhilardi's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsacGhilardi&hide=contribs,prs)
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsacGhilardi&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
@@ -49,14 +49,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsacGhilardi/IsacGhilardi/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IsacGhilardi/IsacGhilardi/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/qt2mghi7d8cwv2rjdvsww18k3">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=qt2mghi7d8cwv2rjdvsww18k3&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
