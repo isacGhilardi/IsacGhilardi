@@ -45,10 +45,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/IsacGhilardi/IsacGhilardi/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="ww.linkedin.com/in/isac-ghilardi-858285266" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
